@@ -77,5 +77,5 @@ git clone https://github.com/<SEU_USUARIO>/data-scientist-test-jan-2024.git
 Instale as dependências do projeto:
 
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
