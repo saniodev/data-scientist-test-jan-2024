@@ -4,7 +4,7 @@
   <br>
 </p>
 
-# Atenção
+# Atenção e nescesario ter o python instalado na sua maquina
 ## Todo o código se encontra na branch Samuel-Lucas-Data-Scientist-test.
 ```
 git clone git@github.com:saniodev/data-scientist-test-jan-2024.git
@@ -13,6 +13,10 @@ git clone git@github.com:saniodev/data-scientist-test-jan-2024.git
 
 ```
 git checkout Samuel-Lucas-Data-Scientist-test
+```
+## verifique se esta na branch Samuel-Lucas-Data-Scientist-test
+```
+git branch
 ```
 ## Instale as dependências do projeto:
 
